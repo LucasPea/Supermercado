@@ -1,0 +1,9 @@
+C:\Users\lucas\source\repos\SupermercadoNosis\SupermercadoNosis\bin\Debug\SupermercadoNosis.exe.config
+C:\Users\lucas\source\repos\SupermercadoNosis\SupermercadoNosis\bin\Debug\SupermercadoNosis.exe
+C:\Users\lucas\source\repos\SupermercadoNosis\SupermercadoNosis\bin\Debug\SupermercadoNosis.pdb
+C:\Users\lucas\source\repos\SupermercadoNosis\SupermercadoNosis\obj\Debug\SupermercadoNosis.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\SupermercadoNosis\SupermercadoNosis\obj\Debug\SupermercadoNosis.Form1.resources
+C:\Users\lucas\source\repos\SupermercadoNosis\SupermercadoNosis\obj\Debug\SupermercadoNosis.Properties.Resources.resources
+C:\Users\lucas\source\repos\SupermercadoNosis\SupermercadoNosis\obj\Debug\SupermercadoNosis.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\SupermercadoNosis\SupermercadoNosis\obj\Debug\SupermercadoNosis.exe
+C:\Users\lucas\source\repos\SupermercadoNosis\SupermercadoNosis\obj\Debug\SupermercadoNosis.pdb
